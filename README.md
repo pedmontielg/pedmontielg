@@ -2,7 +2,7 @@
 - 👀 I’m interested in node & angular
 - 🌱 I’m currently learning node
 - 💞️ I’m looking to collaborate on mobile apps
-- 📫 How to reach me at my email pedro.montiel@inssoftmx.com
+- 📫 How to reach me at my email pedro.montiel@accushield.com
 
 <!---
 pedmontielg/pedmontielg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
